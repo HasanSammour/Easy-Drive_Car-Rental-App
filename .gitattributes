@@ -1,0 +1,12 @@
+# Set default behavior
+* text=auto
+
+# Explicitly set file types
+*.dart text eol=lf
+*.yaml text eol=lf
+*.json text eol=lf
+*.swift text eol=lf
+*.cc text eol=lf
+*.h text eol=lf
+*.cmake text eol=lf
+*.lock text eol=lf

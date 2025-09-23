@@ -1,0 +1,31 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "easydrive-app-d8787",
+          "appId": "1:1033457552496:android:ccae31ffe0fc82573ff8b5",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "easydrive-app-d8787",
+          "configurations": {
+            "android": "1:1033457552496:android:ccae31ffe0fc82573ff8b5",
+            "ios": "1:1033457552496:ios:a1713f4ff88f082c3ff8b5",
+            "macos": "1:1033457552496:ios:a1713f4ff88f082c3ff8b5",
+            "web": "1:1033457552496:web:33492612f79b4e0b3ff8b5",
+            "windows": "1:1033457552496:web:74b88a6b9673bd9e3ff8b5"
+          }
+        }
+      }
+    }
+  },
+  "firestore": {
+    "database": "(default)",
+    "location": "europe-west1",
+    "rules": "firestore.rules",
+    "indexes": "firestore.indexes.json"
+  }
+}
