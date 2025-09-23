@@ -61,8 +61,7 @@ lib/
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/your-username/easydrive.git
-cd easydrive
+git clone https://github.com/HasanSammour/Easy-Drive_Car-Rental-App.git
 ```
 
 2. **Install dependencies**
