@@ -30,7 +30,7 @@ A modern, cross-platform car rental application built with Flutter and Firebase,
 
 ### Tech Stack
 
-* **Frontend**: Flutter 3.16.0 (Dart)
+* **Frontend**: Flutter 3.35.4 (Dart)
 * **Backend**: Firebase (Firestore, Auth, Storage)
 * **State Management**: Provider Pattern
 * **Architecture**: MVVM (Model-View-ViewModel)
@@ -51,8 +51,8 @@ lib/
 
 ### Prerequisites
 
-* Flutter SDK 3.16.0 or higher
-* Dart 3.0.0 or higher
+* Flutter SDK 3.35.4 or higher
+* Dart 3.9.2 or higher
 * Firebase project
 * Android Studio or VS Code
 
