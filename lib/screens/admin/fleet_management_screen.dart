@@ -610,7 +610,7 @@ class _AddEditCarDialogState extends State<AddEditCarDialog> {
                 },
               ),
             );
-          }).toList(),
+          }),
         ],
       ],
     );
@@ -618,7 +618,7 @@ class _AddEditCarDialogState extends State<AddEditCarDialog> {
 
   Widget _buildStatusDropdown() {
     return DropdownButtonFormField<String>(
-      value: _status,
+      initialValue: _status,
       decoration: InputDecoration(
         border: OutlineInputBorder(borderRadius: BorderRadius.circular(8)),
         filled: true,
