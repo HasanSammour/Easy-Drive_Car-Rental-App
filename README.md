@@ -1,6 +1,6 @@
 # EasyDrive - Car Rental Mobile Application 🚗
 
-![Flutter](https://img.shields.io/badge/Flutter-3.16.0-blue?logo=flutter)
+![Flutter](https://img.shields.io/badge/Flutter-3.35.4-blue?logo=flutter)
 ![Firebase](https://img.shields.io/badge/Firebase-Cloud-orange?logo=firebase)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
